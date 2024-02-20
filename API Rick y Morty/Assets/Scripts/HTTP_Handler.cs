@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public class HTTP_Handler : MonoBehaviour
 {
-    private string fakeApiUrl = "https://my-json-server.typicode.com/mcaladp09/Actividad_API_Rick_y_Morty";
+    private string fakeApiUrl = "https://my-json-server.typicode.com/mcaladp09/Actividad_Rick_y_Morty_API";
     private string RickAndMoryApiUrl = "https://rickandmortyapi.com/api";
     private int imagesDownloadsCounter;//
 
